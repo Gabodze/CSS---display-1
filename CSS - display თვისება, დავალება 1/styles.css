@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #DAA520;
+    display: flex;
+}
+
+
+.div1{
+    width: 365px;
+    height: 365px;
+    border-radius: 12px;
+    background-color: #297E40;
+    margin: 32px 32px 32px;
+}
+
+
+.div2{
+    width: 365px;
+    height: 365px;
+    margin-top: 32px;
+    margin-right: 32px;
+    border-radius: 90px;
+    opacity: 0.9px;
+    background-color: #8E2877;
+}
+
+
+.div3{
+    margin-top: 32px;
+    width: 365px;
+    height: 365px;
+    border-radius: 20px;
+    background-color: #361BA4;
+}
